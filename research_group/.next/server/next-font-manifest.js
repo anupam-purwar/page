@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/tanmaysingewar/Desktop/AIGuruKul/aigurukul/src/app/layout":["static/media/1fe05f8c46e9977c.p.woff2","static/media/eafabf029ad39a43.p.woff2","static/media/b957ea75a84b6ea7.p.woff2","static/media/0e4fe491bf84089c.p.woff2","static/media/934c4b7cb736f2a3.p.woff2"]},"appUsingSizeAdjust":false,"pagesUsingSizeAdjust":false}';
